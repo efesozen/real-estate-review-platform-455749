@@ -1,0 +1,7 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { PropertysModule } from './modules/properties/properties.module';
+import { ReviewsModule } from './modules/reviews/reviews.module';
+
+// Add to @Module imports array:
+// PropertysModule,
+// ReviewsModule
